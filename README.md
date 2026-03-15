@@ -1,6 +1,12 @@
 <h1>Hi, I'm Lahiru! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
+
+
+<h2> 👯 Social Life: Volunteering Expereince</h2>
+
+- [Volunteering Staff -TECHARENA 2026 - Scandinavia's Biggest Tech & Business Event](https://www.linkedin.com/in/lahiru-dharmarathna-32278211b/recent-activity/images/)
 <h2>📺 Popular Newsletter Series-Digtial Gate </h2>
+
 
 - [Automotive Cybersecurity - Did you know Cybersecurity is a Safety Enabler in Modern Vehicles?](https://www.linkedin.com/pulse/did-you-know-cybersecurity-safety-enabler-modern-lahiru-dharmarathna-8le3f/?trackingId=uCZAn9MmS1yiBXzBz%2FYN3g%3D%3D)
 - [Do you really need a GRC Platform for Cybersecurity?](https://www.linkedin.com/pulse/do-you-really-need-grc-platform-cybersecurity-lahiru-dharmarathna-y2f3e/?trackingId=kHBjjFv7QYasRykUPfFGog%3D%3D)
