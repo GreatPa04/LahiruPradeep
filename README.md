@@ -5,6 +5,8 @@
 <h2> 👯 Social Life: Volunteering Expereince</h2>
 
 - [Volunteering Staff -TECHARENA 2026 - Scandinavia's Biggest Tech & Business Event](https://www.linkedin.com/in/lahiru-dharmarathna-32278211b/recent-activity/images/)
+- [Volunteering Staff - The AI Collective - Gothenburg Chapter 2026 -Global non-profit building the human layer for the AI age](https://www.linkedin.com/feed/update/urn:li:activity:7433157092670062592/)
+
 <h2>📺 Popular Newsletter Series-Digtial Gate </h2>
 
 
